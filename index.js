@@ -5,5 +5,9 @@ add(a, b)
 function subtract(){
   subtract(a,b)
 }
-multiply()
-divide()
+function multiply() {
+  multiply(a,b)
+}
+function divide(){
+  divide(a,b)
+}
