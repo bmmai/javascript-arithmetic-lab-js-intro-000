@@ -1,6 +1,9 @@
 function add(){
-a + b
+add(a, b)
 }
-subtract()
+
+function subtract(){
+  subtract(a,b)
+}
 multiply()
 divide()
